@@ -7,5 +7,5 @@ simple one page website
 ### libs
 - *slick.js*
 - *wow.js*
-- *view my [**Project**](https://github.com/kadirov-Fariddun/landing-page)*
+- *view my [**Project**]*(https://kadirov-fariddun.github.io/landing-page/)*
 # Author **Kadirov Fariddun** *2023*
